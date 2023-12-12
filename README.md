@@ -1,2 +1,2 @@
 # CVSearch
-Application to find skilled people for more or less punctual work
+The project CV search is a project in which will permit users to find the person they want for a specific job faster and accurately, this will be an app that shows all details about a potential skill set for a specific job. The interest of this project is to bring a specific skill set to a potential employee in need of them at a specific time and within a short range location according to the person's distance.
